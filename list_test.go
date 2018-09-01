@@ -1,4 +1,4 @@
-package list
+package gds
 
 import (
 	"testing"

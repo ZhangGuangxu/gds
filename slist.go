@@ -1,4 +1,4 @@
-package slist
+package gds
 
 import (
 	"errors"
